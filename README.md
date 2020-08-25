@@ -19,15 +19,15 @@ FireflyNavigator by Elie Sarfati, Rubika Supinfogame, 01/2020
 
 --touchpad + keyboard
 	<br>&emsp;&emsp;up/down arrows to move forwards/backwards
-	<br>command + touchpad to move up/down/left/right
-	<br>control + touchpad to rotate view around current position
-	<br>double click to focus on a specific flash
+	<br>&emsp;&emsp;command + touchpad to move up/down/left/right
+	<br>&emsp;&emsp;control + touchpad to rotate view around current position
+	<br>&emsp;&emsp;double click to focus on a specific flash
 
 --mouse
-	<br>scroll wheel to move forwards/backwards
-	<br>right button to move up/down/left/right
-	<br>wheel button (or middle button) to rotate view around current position
-	<br>double left-click to focus on a specific flash
+	<br>&emsp;&emsp;scroll wheel to move forwards/backwards
+	<br>&emsp;&emsp;right button to move up/down/left/right
+	<br>&emsp;&emsp;wheel button (or middle button) to rotate view around current position
+	<br>&emsp;&emsp;double left-click to focus on a specific flash
 
 
 -Datasets
