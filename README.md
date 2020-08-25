@@ -14,12 +14,11 @@ FireflyNavigator by Elie Sarfati, Rubika Supinfogame, 01/2020
 <br>Enter or paste the path to the .csv file of interest. 
 <br>To obtain the full path, you can drag/drop the csv file into the Terminal and copy the address that appears.
 
-<pre>
 -Controls
 <br>use keyboard "t" key to toggle between Timelapse and All-On.
 
 --touchpad + keyboard
-	<br>up/down arrows to move forwards/backwards
+	<br>&emsp;&emsp;up/down arrows to move forwards/backwards
 	<br>command + touchpad to move up/down/left/right
 	<br>control + touchpad to rotate view around current position
 	<br>double click to focus on a specific flash
@@ -29,7 +28,6 @@ FireflyNavigator by Elie Sarfati, Rubika Supinfogame, 01/2020
 	<br>right button to move up/down/left/right
 	<br>wheel button (or middle button) to rotate view around current position
 	<br>double left-click to focus on a specific flash
-</pre>
 
 
 -Datasets
