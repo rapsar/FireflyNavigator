@@ -1,5 +1,5 @@
 FireflyNavigator by Elie Sarfati, Rubika Supinfogame, 01/2020 
-User Guide
+<br>User Guide
 
 -Windows Setup
 Download FireflyNavigator_WINDOWS
